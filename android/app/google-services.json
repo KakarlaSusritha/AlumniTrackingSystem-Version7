@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "617616315899",
+    "firebase_url": "https://bvrith-alumni-details.firebaseio.com",
+    "project_id": "bvrith-alumni-details",
+    "storage_bucket": "bvrith-alumni-details.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:617616315899:android:386c796cf3cf1b1f4f675e",
+        "android_client_info": {
+          "package_name": "com.example.alumni_tracking_system"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "617616315899-3k2r71qls088rd96aa9s06c08b974q38.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxa7oa1vQJyraoWL1aIIdrP5MRiD6-pP4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "617616315899-3k2r71qls088rd96aa9s06c08b974q38.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
